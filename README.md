@@ -1,2 +1,2 @@
-Baby Rabbit DAO
-======
+* [Deutsch](de/)
+* [English](en/)

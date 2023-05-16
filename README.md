@@ -1,16 +1,11 @@
----
-output: html_document
----
-
-# Heading {.tabset .tabset-dropdown}
-
-## Dropdown 1
-
-## Dropdown 2
-
-## Dropdown 3 
-
-## Dropdown 4
+<details>
+<summary>Dropdown Heading</summary>
+<br>
+Choice 1
+<br> Choice 2
+<br> Choice 2
+<br>
+</details>
 
 * [Deutsch](de/)
 * [English](en/)

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LANGS](README.md)
+* [Untitled](README.md)
 * [Baby Rabbit DAO](<README (1).md>)
 * [Deutsch](de/README.md)
   * [SUMMARY](de/SUMMARY.md)
